@@ -18,7 +18,7 @@ I am a developer focused on high-performance Minecraft server solutions. I speci
 ### 💻 Языки и инструменты / Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash,gradle,idea,git,github,docker" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash,gradle,idea,git,gitlab,github,docker" alt="My Skills" />
   </a>
 </p>
 
@@ -31,13 +31,15 @@ I am a developer focused on high-performance Minecraft server solutions. I speci
   - 🎙️ [pv-voice-message-addon](https://github.com/TheGektor/pv-voice-message-addon) — интерактивные голосовые сообщения для Plasmo Voice.
   - 🌐 [DiscordSRV-LinkChannel](https://github.com/TheGektor/DiscordSRV-LinkChannel) — аддон для привязки аккаунтов через канал Discord.
   - 🛑 [anti-ddos_sistem](https://github.com/TheGektor/anti-ddos_sistem) — система защиты от DDoS-атак с интеграцией с Telegram.
+  - 🦊 [sakeva-helper](https://gitlab.com/TheGektor/sakeva-helper) (GitLab) — вспомогательный проект для автоматизации задач.
 
 ---
 
 ## 📊 Статистика / Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGektor&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGektor&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGektor&theme=tokyonight" alt="GitHub Profile Details" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGektor&theme=tokyonight" alt="GitHub Streak Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheGektor&theme=tokyonight" alt="GitHub Repos Per Language" height="150" />
 </p>
 
 ---
@@ -58,6 +60,9 @@ I am a developer focused on high-performance Minecraft server solutions. I speci
 <p align="left">
   <a href="https://t.me/Antag0nistic" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://gitlab.com/TheGektor" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="mailto:dnlaminev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
