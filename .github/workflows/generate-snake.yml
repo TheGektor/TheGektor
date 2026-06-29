@@ -26,8 +26,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          # Using the Personal Access Token to fetch private contributions too
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           
-      # Push the content of <build_dir> to a branch
+      # Push the content of <build_dir> to the "output" branch
       - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
