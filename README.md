@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Minecraft+Mod+%26+Plugin+Developer;Building+Folia+%26+Paper+solutions;Crafting+DiscordSRV+%26+PlasmoVoice+addons;Java+%26+Kotlin+enthusiast;Precollivood+Developer+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Minecraft+Mod+%26+Plugin+Developer;Building+Folia+%26+Paper+solutions;Autonomous+Gemini-driven+Dev+%E2%9A%A1%EF%B8%8F;Java+%26+Kotlin+enthusiast;Precollivood+Developer+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,13 @@
 
 Я — разработчик высокопроизводительных решений для Minecraft-серверов. Специализируюсь на создании плагинов и модов, оптимизации серверной части (включая регионную многопоточность **Folia**), а также интеграции игрового процесса с внешними платформами (Discord, Telegram, голосовой чат Plasmo Voice).
 
+🤖 **AI-Driven Development:** В настоящее время я перехожу от традиционного ручного программирования к автономной разработке с помощью нейросетей **Gemini**. Это позволяет мне автоматизировать рутинные задачи и ускорить проектирование архитектуры, сохраняя максимальную производительность, надежность и качество кода.
+
+---
+
 I am a developer focused on high-performance Minecraft server solutions. I specialize in plugin & mod development, server-side optimization (including **Folia** regionized multithreading), and bridging game servers with external platforms (Discord, Telegram, Plasmo Voice).
+
+🤖 **AI-Driven Development:** I am currently transitioning from traditional manual coding to autonomous development using **Gemini** neural networks. This shift allows me to automate routine tasks and design server architectures faster while maintaining peak code productivity, performance, and reliability.
 
 ---
 
@@ -20,6 +26,8 @@ I am a developer focused on high-performance Minecraft server solutions. I speci
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash,gradle,idea,git,gitlab,github,docker" alt="My Skills" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Gemini-AI--Driven_Dev-8E75C2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini AI" />
 </p>
 
 ### 🔌 Minecraft & Server API
